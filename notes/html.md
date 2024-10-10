@@ -1,5 +1,11 @@
 # HTML
 
-## HOW IT WORKS
+## Core Concepts
+- Concept 1
+- Concept 2
 
-HTML stands for hypertext markup language
+## Code Examples
+```code here```
+
+## Resources
+- Links and references
